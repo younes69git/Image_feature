@@ -73,7 +73,7 @@ body {
 }
 
 img {
-  max-width: 500px; 
+  max-width: 450px; 
   padding: var(--spacing);
   background: var(--base);
   filter:blur(var(--blur));
